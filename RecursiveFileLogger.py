@@ -1,3 +1,4 @@
+#!/bin/env python3
 from pathlib import Path
 import sys, os
 
@@ -21,3 +22,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

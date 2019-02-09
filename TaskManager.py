@@ -1,3 +1,4 @@
+#!/bin/env python3
 import time
 from threading import Thread
 from TwitchOnlineChecker import *
