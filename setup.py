@@ -9,7 +9,7 @@ setup(name="Python-Scripts",
       author_email="manimax3@hotmail.de",
       url="https://github.com/manimax3/Python-Scripts",
       py_modules=[],
-      scripts=['RecursiveFileLogger.py', 'TaskManager.py', 'TwitchOnlineChecker.py', 'gitbetterinit.py'],
+      scripts=['RecursiveFileLogger.py', 'TaskManager.py', 'TwitchOnlineChecker.py', 'gitbetterinit.py', 'PodcastDownloader.py'],
       install_requires=["github3.py", "Click",
-                        "license", "keyring", "requests", "beautifulsoup4"]
+                        "license", "keyring", "requests", "beautifulsoup4", "lxml"]
       )
